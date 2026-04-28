@@ -36,3 +36,17 @@ III. FINE CALCULATION LOGIC:
    8-15 Days - Rs.5 per day
    16+ Days - Rs.10 per day
 
+
+OUTPUTS :
+<img width="1177" height="592" alt="image" src="https://github.com/user-attachments/assets/5ba258ce-0c2a-49ba-b58c-cb95e3d258c6" />
+<img width="1114" height="646" alt="image" src="https://github.com/user-attachments/assets/081fabcd-6223-4f06-87c8-20602e3be54f" />
+<img width="1079" height="627" alt="image" src="https://github.com/user-attachments/assets/b1694f00-a7cd-4a26-8fe3-e702a9e530cb" />
+<img width="1051" height="660" alt="image" src="https://github.com/user-attachments/assets/c4f72eb6-ed47-4822-8969-643b687aa538" /> 
+<img width="1193" height="830" alt="image" src="https://github.com/user-attachments/assets/a1fb93c8-a6e5-49c6-b78f-b4c086e40efc" />
+<img width="1340" height="709" alt="image" src="https://github.com/user-attachments/assets/a0cf80f7-bb72-4894-9aa3-7eba26eb7dcb" /> 
+
+
+
+
+
+
